@@ -42,7 +42,6 @@ def count_multiples_of_3(limit):
 
     return "\n".join(map(str, result))  
 
-print(count_multiples_of_3(20))
 
 
 # Function 6: Sum of Even Numbers in a Range
